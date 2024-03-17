@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fuzzy8p
-- 👀 I’m interested in all programming languages
-- 🌱 I’m currently learning DART
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning Python & DART
 
 
 <!---
