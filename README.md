@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuzzy8p
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Python & DART
-
+- 🌱 A beginner
+- 🌱 Testing out Railway for hosting WAHA
 
 <!---
 fuzzy8p/fuzzy8p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
